@@ -1,7 +1,7 @@
 # Python Video Compiler
 [![](https://img.shields.io/badge/Python-MoviePy-blue)](https://pypi.org/project/moviepy/)
 
-Concat/Merge/Compile video from **urls** using **MoviePy**
+Concat/Merge/Compile video from **urls** using **MoviePy and requests**
 <hr>
 
 ```
